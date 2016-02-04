@@ -1,2 +1,2 @@
 This is 2nd commit in develop branch
-
+Now i add second commit hows that
